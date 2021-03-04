@@ -2,7 +2,7 @@
 
 Tugas
 1. Buatlah script coding untuk menggambar salah satu gambar di bawah ini pada window ukuran 600 x 600 piksel. Pilihlah pada bagian mana anda akan menggambar obyek gambar tersebut.
-    * Seperempat bagian kiri atas window 0010 1010 11 0001
+    * Seperempat bagian kiri atas window
     * Seperempat bagian kiri bawah window
     * Seperempat bagian kanan atas window
     * Seperempat bagian kanan bawah window
